@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @simgepython
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning java and python
+
 
 
 <!---
